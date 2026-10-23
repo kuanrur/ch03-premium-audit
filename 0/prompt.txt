@@ -1,0 +1,1 @@
+Before any real work: confirm entire.io is capturing this session. Run entire status, then make a tiny commit (add a .gitkeep under interviews/), and show me git log -1 and entire checkpoint list so I can see the Entire-Checkpoint trailer and a new checkpoint.
